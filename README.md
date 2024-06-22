@@ -13,7 +13,7 @@ This is a simple FastAPI CRUD API service that manages users, using PostgreSQL a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/my_fastapi_project.git
+    git clone https://github.com/sotrem/users_fastapi.git
     cd my_fastapi_project
     ```
 
